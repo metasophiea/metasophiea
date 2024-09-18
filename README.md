@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋 I'm Brandon | Typescript/React Developer at Arista</h1>
 <h3 align="center">DCU graduate</h3>
 
-- 🔭 I’m currently working on **Alchemy**
+- 🔭 I’m currently working on [**Alchemy**](https://alchemy.metasophiea.com)
 
 - 🌱 I’m currently learning **Firmata**
 
