@@ -11,7 +11,7 @@
 
 - 📫 How to reach me [**metasophiea@gmail.com**](mailto:metasophiea@gmail.com) | [**http://linkedin.com/in/metasophiea**](http://linkedin.com/in/metasophiea)
 
-- 📄 [Know about my projects](https://metasophiea.com)
+- 📄 [Learn about my projects](https://metasophiea.com)
  
 - ⚡ Fun fact **I do acrobatics!**
 
