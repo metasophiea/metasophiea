@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Firmata**
 
-- 🤝 I’m willing to learn [Angular](https://github.com/angular/angular) | [Fortran](https://fortran-lang.org) | [Cobol](https://www.ibm.com/topics/cobol)
+- 🤝 I’m willing to learn [Angular](https://github.com/angular/angular) | [Python](https://www.python.org) |  [Fortran](https://fortran-lang.org) | [Cobol](https://www.ibm.com/topics/cobol)
 
 - 💬 Ask me about **Rust, Rendering Engines, Graphic Design**
 
