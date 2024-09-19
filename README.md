@@ -52,7 +52,13 @@
   </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/WebGL_Logo.svg" alt="webgl" width="40" height="40"/> 
+  </a>
+  <a href="https://wgpu.rs" target="_blank" rel="noreferrer"> 
+    <img src="https://wgpu.rs/logo.min.svg" alt="wgpu" width="40" height="40"/> 
+  </a>
 </p>
 
 &nbsp;
