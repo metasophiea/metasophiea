@@ -65,8 +65,5 @@
 
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metasophiea&layout=compact&langs_count=10&theme=dark" alt="metasophiea" />
-</div>
-
-<div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=metasophiea&show_icons=true&theme=dark&locale=en" alt="metasophiea" />
 </div>
