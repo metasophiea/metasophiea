@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [**Alchemy**](https://alchemy.metasophiea.com)
 
-- 🌱 I’m currently learning **Firmata**
+- 🌱 I’m currently learning **Firmata** > [https://github.com/metasophiea/firmata-client-rs](https://github.com/metasophiea/firmata-client-rs)
 
 - 🤝 I’m willing to learn [Angular](https://github.com/angular/angular) | [Python](https://www.python.org) |  [Fortran](https://fortran-lang.org) | [Cobol](https://www.ibm.com/topics/cobol)
 
