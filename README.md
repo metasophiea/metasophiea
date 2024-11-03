@@ -7,7 +7,7 @@
 
 - 🤝 I’m willing to learn [Angular](https://github.com/angular/angular) | [Python](https://www.python.org) |  [Fortran](https://fortran-lang.org) | [Cobol](https://www.ibm.com/topics/cobol)
 
-- 💬 Ask me about **Rust, Rendering Engines, Graphic Design**
+- 💬 Ask me about **Rust, Rendering Engines, Audio Processing, Graphic Design**
 
 - 📫 How to reach me [**metasophiea@gmail.com**](mailto:metasophiea@gmail.com) | [**http://linkedin.com/in/metasophiea**](http://linkedin.com/in/metasophiea)
 
