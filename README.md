@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [**Alchemy**](https://alchemy.metasophiea.com)
 
-- 🌱 I’m currently learning **Midi** > [https://en.wikipedia.org/wiki/MIDI](https://en.wikipedia.org/wiki/MIDI)
+- 🌱 I’m currently learning **Midi** > [https://github.com/metasophiea/midi_file_performer](https://github.com/metasophiea/midi_file_performer)
 
 - 🤝 I’m willing to learn [Angular](https://github.com/angular/angular) | [Python](https://www.python.org) |  [Fortran](https://fortran-lang.org) | [Cobol](https://www.ibm.com/topics/cobol) | [PHP](https://www.php.net)
 
