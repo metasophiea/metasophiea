@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [**Alchemy**](https://alchemy.metasophiea.com)
 
-- 🌱 I’m currently learning **Midi** > [https://github.com/metasophiea/midi_file_performer](https://github.com/metasophiea/midi_file_performer)
+- 🌱 I’m currently learning **DMX** > [https://en.wikipedia.org/wiki/DMX512](https://en.wikipedia.org/wiki/DMX512)
 
 - 🤝 I’m willing to learn [Angular](https://github.com/angular/angular) | [Python](https://www.python.org) |  [Fortran](https://fortran-lang.org) | [Cobol](https://www.ibm.com/topics/cobol) | [PHP](https://www.php.net)
 
-- 💬 Ask me about **Rust, Rendering Engines, Audio Processing, Graphic Design**
+- 💬 Ask me about **Rust, Rendering Engines, Audio Processing, Robotic Control, Graphic Design**
 
 - 📫 How to reach me [**metasophiea@gmail.com**](mailto:metasophiea@gmail.com) | [**http://linkedin.com/in/metasophiea**](http://linkedin.com/in/metasophiea)
 
